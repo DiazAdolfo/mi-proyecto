@@ -1,0 +1,25 @@
+# Archivos temporales
+*.tmp
+*.bak
+
+# Archivos de configuración local
+*.local
+
+# Habitual en bases de datos
+.env
+.env.local
+
+# Todos los logs excepto README
+
+!logs/README.log
+
+# Dependencias
+.node_modules/
+
+# IDE
+.vscode/
+.idea/
+
+
+
+
